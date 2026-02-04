@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import Layout from "/src/components/Layout";
 import * as style from "./style.module.css";
-import "../styles/base.css";
+import "../../styles/base.css";
 import "../../setupJquery";
 import gsap from "gsap";
 import SplitType from "split-type";
