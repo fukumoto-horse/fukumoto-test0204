@@ -1,1 +1,0 @@
-{"version":3,"file":"component---src-pages-company-index-jsx-fabeb96b11eb6573e712.js","mappings":"iKAMA,UAJa,IACJ,2B","sources":["webpack://gatsby-starter-hello-world/./src/pages/company/index.jsx"],"sourcesContent":["import * as React from \"react\";\n\nconst Page = () => {\n  return <div></div>;\n};\n\nexport default Page;\n"],"names":[],"sourceRoot":""}
